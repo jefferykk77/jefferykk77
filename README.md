@@ -61,16 +61,12 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/jefferykk77" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.postimg.cc/QMctDX6P/github.gif" width="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.douyin.com/search/88345227081" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/tiktok.png" width="50" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://space.bilibili.com/415417145?spm_id_from=333.788.0.0" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/bilibili.png" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/jefferykk77" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.postimg.cc/QMctDX6P/github.gif" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/Jeffery72727944" target="_blank" rel="noopener noreferrer">
@@ -79,6 +75,10 @@
   &nbsp;&nbsp;
   <a href="mailto:jefferykk77@163.com" target="_blank" rel="noopener noreferrer">
     <img src="https://i.postimg.cc/pXgRLwnt/email.gif" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.douyin.com/search/88345227081" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/tiktok.png" width="50" />
   </a>
 </p>
 
