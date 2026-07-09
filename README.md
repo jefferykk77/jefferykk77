@@ -16,7 +16,7 @@
 
 💼 **Backend & AI Agent Developer**
 
-💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies. When I'm not coding, you'll find me watching football or studying Liuyao divination.
+💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies.
 
 - 🔭 Currently **hacking hackathons and building open-source ideas**
 - 💻 Experienced in **Go**
