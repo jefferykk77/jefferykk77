@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Jeffery 👋
+# Hi there, I'm Jeffery <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="30" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Go+%26+Agent+Developer;not+taking+risk+is+another+risk.;Think+Less%2C+Do+More" alt="Typing SVG" />
