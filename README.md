@@ -27,22 +27,22 @@
 ### 📈 Stats:
 <p align="left">
   <a href="https://github.com/jefferykk77">
-    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-stats.svg" alt="GitHub Stats" height="195" />
+    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-stats.svg?v=1" alt="GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/jefferykk77">
-    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-top-langs.svg" alt="Top Languages" height="195" />
+    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-top-langs.svg?v=1" alt="Top Languages" height="195" />
   </a>
   <br/>
   <a href="https://github.com/jefferykk77">
-    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-streak.svg" alt="GitHub Streak" height="195" />
+    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-streak.svg?v=1" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
 ### 🐍 Contribution Snake:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake-dark.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake.svg?v=1" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake.svg?v=1" alt="github contribution grid snake animation" />
 </picture>
 
 ## 🌐 Connect With Me
