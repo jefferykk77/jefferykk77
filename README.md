@@ -27,7 +27,14 @@
 ### 📈 Stats:
 <p align="left">
   <a href="https://github.com/jefferykk77">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefferykk77&theme=radical" alt="GitHub Streak" height="165" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jefferykk77&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/jefferykk77">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferykk77&layout=compact&theme=radical" alt="Top Languages" height="195" />
+  </a>
+  <br/>
+  <a href="https://github.com/jefferykk77">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefferykk77&theme=radical" alt="GitHub Streak" height="195" />
   </a>
 </p>
 
