@@ -24,6 +24,13 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Download GitHub Stats Cards
+        run: |
+          mkdir -p dist
+          curl -sLo dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=radical&count_private=true"
+          curl -sLo dist/github-top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=radical"
+          curl -sLo dist/github-streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=${{ github.repository_owner }}&theme=radical"
+
       - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v4
         with:
