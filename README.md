@@ -3,7 +3,7 @@
 # Hi there, I'm Jeffery 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Go+%26+Agent+Developer;Frontend+Learner;Think+Less%2C+Do+More" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Go+%26+Agent+Developer;not+taking+risk+is+another+risk.;Think+Less%2C+Do+More" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on learning frontend and agent development.
 - 🌱 I’m currently learning **React**, **Vue**, and **Eino**.
-- ⚡ Fun fact: **not taking risk is another risk.**
+- ⚡ Fun fact: **热刺球迷，喜欢中国玄学**
 
 ### 📈 Stats:
 <p align="left">
