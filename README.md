@@ -2,7 +2,7 @@
 ### think less do more
 
 - 🔭 I’m currently working on learning frontend and agent development.
-- 🌱 I’m currently learning **React**, **Vue**, and **Eino** (CloudWeGo Agent Framework).
+- 🌱 I’m currently learning **React**, **Vue**, and **Eino**.
 - ⚡ Fun fact: **not taking risk is another risk.**
 
 ### 📈 Stats:
