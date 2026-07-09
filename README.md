@@ -65,10 +65,6 @@
     <img src="https://i.postimg.cc/QMctDX6P/github.gif" width="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://jefferyspace.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/color/48/domain.png" width="50" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://twitter.com/Jeffery72727944" target="_blank" rel="noopener noreferrer">
     <img src="https://i.postimg.cc/3xvrj8HR/twitter.gif" width="50" />
   </a>
