@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **CS Student @ SDUT**
+🎓 **Year 2 Student @ Shandong University of Technology - Computer Science & Technology**
 
 💼 **Backend & AI Agent Developer**
 
