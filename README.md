@@ -22,7 +22,6 @@
 - 💻 Experienced in **Go**
 - 🤖 Interested in **AI Agent integration (Eino) and full-stack development**
 - 🌱 Currently learning **React** and **Vue**
-- 🎵 **Douyin**: `88345227081` (庸人自扰)
 - ⚡ Fun fact: **Spurs fan, interested in Liuyao divination**
 
 ### 📈 Stats:
@@ -68,6 +67,10 @@
   &nbsp;&nbsp;
   <a href="https://www.douyin.com/search/88345227081" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/tiktok.png" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://space.bilibili.com/415417145?spm_id_from=333.788.0.0" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/bilibili.png" width="50" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/Jeffery72727944" target="_blank" rel="noopener noreferrer">
