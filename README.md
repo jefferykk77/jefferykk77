@@ -18,7 +18,7 @@
 
 💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies. When I'm not coding, you'll find me watching football or studying Liuyao divination.
 
-- 🔭 Currently working on **AI task decomposer and backend systems**
+- 🔭 Currently **hacking hackathons and building open-source ideas**
 - 💻 Experienced in **Go**
 - 🤖 Interested in **AI Agent integration (Eino) and full-stack development**
 - 🌱 Currently learning **React** and **Vue**
@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-⭐️ From <a href="https://github.com/jefferykk77">jefferykk77</a> | 💻 Go & Agent Developer | 🌏 Based in China
+⭐️ From <a href="https://github.com/jefferykk77">jefferykk77</a> | 💻 Go & Agent Developer | 🌏 Based in Jinan, China
 </p>
