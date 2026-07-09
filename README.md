@@ -48,6 +48,14 @@
       </a>
     </td>
   </tr>
+  <tr valign="top">
+    <td colspan="2" align="center">
+      <br/>
+      <a href="https://github.com/jefferykk77">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jefferykk77&layout=compact&langs_count=8" alt="WakaTime Stats" height="165" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
