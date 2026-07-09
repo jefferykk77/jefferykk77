@@ -12,16 +12,16 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **Developer & Tech Enthusiast**
+🎓 **CS Student @ SDUT**
 
 💼 **Backend & AI Agent Developer**
 
 💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies. When I'm not coding, you'll find me watching football or studying Liuyao divination.
 
 - 🔭 Currently working on **AI task decomposer and backend systems**
-- 💻 Experienced in **Go, MySQL, Redis, and Docker**
+- 💻 Experienced in **Go**
 - 🤖 Interested in **AI Agent integration (Eino) and full-stack development**
-- 🌱 Always learning and growing as a developer (**React, Vue**)
+- 🌱 Currently learning **React** and **Vue**
 - ⚡ Fun fact: **Spurs fan, interested in Liuyao divination**
 
 ### 📈 Stats:
