@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on learning frontend and agent development.
 - 🌱 I’m currently learning **React**, **Vue**, and **Eino**.
-- ⚡ Fun fact: **热刺球迷，喜欢中国玄学**
+- ⚡ Fun fact: **Spurs fan, interested in Liuyao divination**
 
 ### 📈 Stats:
 <p align="left">
