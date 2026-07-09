@@ -11,8 +11,17 @@
 <br>
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on learning frontend and agent development.
-- 🌱 I’m currently learning **React**, **Vue**, and **Eino**.
+
+🎓 **Developer & Tech Enthusiast**
+
+💼 **Backend & AI Agent Developer**
+
+💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies. When I'm not coding, you'll find me watching football or studying Liuyao divination.
+
+- 🔭 Currently working on **AI task decomposer and backend systems**
+- 💻 Experienced in **Go, MySQL, Redis, and Docker**
+- 🤖 Interested in **AI Agent integration (Eino) and full-stack development**
+- 🌱 Always learning and growing as a developer (**React, Vue**)
 - ⚡ Fun fact: **Spurs fan, interested in Liuyao divination**
 
 ### 📈 Stats:
