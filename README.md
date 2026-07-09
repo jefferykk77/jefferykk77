@@ -12,6 +12,8 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" src="images/code-blackhole.jpg" width="250" />
+
 🎓 **Year 2 Student @ Shandong University of Technology - Computer Science & Technology**
 
 💼 **Golang Backend & AI Agent Developer**
