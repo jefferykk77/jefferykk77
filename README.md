@@ -6,30 +6,6 @@
   </samp>
 </p>
 
-<p align="center">
-💡 <i>"think less do more"</i>
-</p>
-
-<p align="center">
-⭐️ From <a href="https://github.com/jefferykk77">jefferykk77</a> | 💻 Go & Agent Developer | 🌏 Based in China
-</p>
-
-<p align="center">
-  <a href="https://github.com/jefferykk77">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35"/>
-  </a>
-  &nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/>
-  </a>
-</p>
-
----
-
 - 🔭 I’m currently working on learning frontend and agent development.
 - 🌱 I’m currently learning **React**, **Vue**, and **Eino**.
 - ⚡ Fun fact: **not taking risk is another risk.**
@@ -47,3 +23,28 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://github.com/jefferykk77" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.postimg.cc/QMctDX6P/github.gif" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/your-username" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.postimg.cc/3xvrj8HR/twitter.gif" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.postimg.cc/pXgRLwnt/email.gif" width="50" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+💡 <i>"think less do more"</i>
+</p>
+
+<p align="center">
+⭐️ From <a href="https://github.com/jefferykk77">jefferykk77</a> | 💻 Go & Agent Developer | 🌏 Based in China
+</p>
