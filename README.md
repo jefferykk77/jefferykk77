@@ -25,18 +25,32 @@
 - ⚡ Fun fact: **Spurs fan, interested in Liuyao divination**
 
 ### 📈 Stats:
-<p align="left">
-  <a href="https://github.com/jefferykk77">
-    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-stats.svg?v=1" alt="GitHub Stats" height="195" />
-  </a>
-  <a href="https://github.com/jefferykk77">
-    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-top-langs.svg?v=1" alt="Top Languages" height="195" />
-  </a>
-  <br/>
-  <a href="https://github.com/jefferykk77">
-    <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-streak.svg?v=1" alt="GitHub Streak" height="195" />
-  </a>
-</p>
+<div align="center">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr valign="top">
+    <td>
+      <a href="https://github.com/jefferykk77">
+        <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-stats.svg?v=1" alt="GitHub Stats" height="195" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/jefferykk77">
+        <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-streak.svg?v=1" alt="GitHub Streak" height="195" />
+      </a>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td colspan="2" align="center">
+      <br/>
+      <a href="https://github.com/jefferykk77">
+        <img src="https://raw.githubusercontent.com/jefferykk77/jefferykk77/output/github-top-langs.svg?v=1" alt="Top Languages" height="165" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### 🐍 Contribution Snake:
 <picture>
