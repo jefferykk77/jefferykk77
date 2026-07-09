@@ -8,7 +8,13 @@
 ### 📈 Stats:
 <p align="left">
   <a href="https://github.com/jefferykk77">
+    <img src="https://github-readme-stats.vercel.app/api?username=jefferykk77&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/jefferykk77">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jefferykk77&theme=radical" alt="GitHub Streak" height="165" />
+  </a>
+  <a href="https://github.com/jefferykk77">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jefferykk77&theme=radical" alt="WakaTime" height="165" />
   </a>
 </p>
 
