@@ -24,7 +24,7 @@
 - 💻 Enjoy coding in **Go**
 - 🤖 Interested in the **Eino framework and full-stack development**
 - 🌱 Currently learning **React** and **Vue**
-- ⚡ Fun fact: **Spurs fan, interested in Liuyao divination**
+- ⚡ Fun fact: **Spurs fan**
 
 ### 📈 Stats:
 <div align="center">
