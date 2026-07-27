@@ -20,10 +20,9 @@
 
 💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies.
 
-- 🔭 Currently **hacking hackathons and building open-source ideas**
+- 🔭 Currently **work** and learning **React** and **Vue**
 - 💻 Enjoy coding in **Go**
 - 🤖 Interested in the **Eino framework and full-stack development**
-- 🌱 Currently learning **React** and **Vue**
 - ⚡ Fun fact: **Spurs fan**
 
 ### 📈 Stats:
