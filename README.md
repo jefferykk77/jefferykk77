@@ -20,7 +20,7 @@
 
 💡 I'm passionate about building backend systems, exploring Python.
 
-- 🔭 Currently learning *Kubernets** and "Python"
+- 🔭 Currently learning **Kubernets** and **Python**
 - 💻 Enjoy coding in **Go**
 - ⚡ Fun fact: **Spurs fan**
 
