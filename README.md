@@ -16,11 +16,11 @@
 
 🎓 **Year 3 Student @ Shandong University of Technology - Computer Science & Technology**
 
-💼 **Gopher**
+💼 **Data Infra**
 
 💡 I'm passionate about building backend systems, exploring Python.
 
-- 🔭 Currently **working** and learning **Data Infra**
+- 🔭 Currently learning *Kubernets** and "Python"
 - 💻 Enjoy coding in **Go**
 - ⚡ Fun fact: **Spurs fan**
 
