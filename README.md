@@ -20,7 +20,7 @@
 
 💡 I'm passionate about understanding simple knowledge.
 
-- 🔭 Currently learning **Kubernets**
+- 🔭 Currently learning **Kubernetes**
 - 💻 Enjoy coding in **Go**
 - ⚡ Fun fact: **Spurs fan**
 
