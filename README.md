@@ -14,15 +14,14 @@
 
 <img align="right" src="images/code-blackhole.jpg" width="250" />
 
-🎓 **Year 2 Student @ Shandong University of Technology - Computer Science & Technology**
+🎓 **Year 3 Student @ Shandong University of Technology - Computer Science & Technology**
 
-💼 **Golang Backend & AI Agent Developer**
+💼 **Gopher**
 
 💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies.
 
-- 🔭 Currently **work** and learning **React** and **Vue**
+- 🔭 Currently **working** and learning **Data Infra**
 - 💻 Enjoy coding in **Go**
-- 🤖 Interested in the **Eino framework and full-stack development**
 - ⚡ Fun fact: **Spurs fan**
 
 ### 📈 Stats:
