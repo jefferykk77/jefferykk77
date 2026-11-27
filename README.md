@@ -74,7 +74,7 @@
     <img src="https://i.postimg.cc/3xvrj8HR/twitter.gif" width="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:jefferykk77@163.com" target="_blank" rel="noopener noreferrer">
+  <a href="" target="_blank" rel="noopener noreferrer">
     <img src="https://i.postimg.cc/pXgRLwnt/email.gif" width="50" />
   </a>
   &nbsp;&nbsp;
