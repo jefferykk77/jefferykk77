@@ -88,7 +88,3 @@
 <p align="center">
 💡 <i>"think less do more"</i>
 </p>
-
-<p align="center">
-⭐️ From <a href="https://github.com/jefferykk77">jefferykk77</a> | 💻 Go & Agent Developer | 🌏 Based in Jinan, China
-</p>
