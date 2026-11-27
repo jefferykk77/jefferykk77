@@ -18,7 +18,7 @@
 
 💼 **Data Infra**
 
-💡 I'm passionate about building backend systems, exploring Python.
+💡 I'm passionate about learning simple knowledge.
 
 - 🔭 Currently learning **Kubernets** and **Python**
 - 💻 Enjoy coding in **Go**
