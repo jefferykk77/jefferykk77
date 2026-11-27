@@ -18,7 +18,7 @@
 
 💼 **Gopher**
 
-💡 I'm passionate about building backend systems, exploring AI Agents, and learning frontend technologies.
+💡 I'm passionate about building backend systems, exploring Python.
 
 - 🔭 Currently **working** and learning **Data Infra**
 - 💻 Enjoy coding in **Go**
