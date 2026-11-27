@@ -18,9 +18,9 @@
 
 💼 **Data Infra**
 
-💡 I'm passionate about learning simple knowledge.
+💡 I'm passionate about understanding simple knowledge.
 
-- 🔭 Currently learning **Kubernets** and **Python**
+- 🔭 Currently learning **Kubernets**
 - 💻 Enjoy coding in **Go**
 - ⚡ Fun fact: **Spurs fan**
 
@@ -81,10 +81,4 @@
   <a href="https://www.douyin.com/search/88345227081" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/color/48/tiktok.png" width="50" />
   </a>
-</p>
-
----
-
-<p align="center">
-💡 <i>"think less do more"</i>
 </p>
